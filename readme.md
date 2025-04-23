@@ -26,7 +26,7 @@ He has a real estate address in Austin and a gmail for contact.**The organizatio
 
 The second person of interest I found in the document was Mr. Sean R. Roberts.
 
-![Sean R. Roberts](./Sean Roberts.jpg)
+![Sean R. Roberts](./SeanRoberts.jpg)
 
 ```
 Associate Professor of the Practice of International Affairs; Director, International Development Studies Program, Elliott School of International Affairs, The George Washington University.
@@ -81,7 +81,7 @@ The documents show that he has **his own property in Miami**, and that he has an
 
 ### 5. Mr. Thomas Richard Suozzi
 
-![Thomas Richard Suozzi](./Tom Suozzi.jpg)
+![Thomas Richard Suozzi](./TomSuozzi.jpg)
 
 ```
 Thomas Richard Suozzi is an American politician serving as the U.S. representative for New York's 3rd congressional district since 2024 and previously from 2017 to 2023. A member of the Democratic Party, he was the county executive of Nassau County on Long Island from 2002 to 2009 and served before then as the mayor of Glen Cove for eight years. His district, which is largely suburban, includes northern Nassau County and parts of northeastern Queens.
