@@ -14,11 +14,9 @@ The entire document involved about **10,000 people**. As a sign of respect, I've
 
 The first person of interest I found in the document was Mr. Scott Busby.
 
-![Scott Busby](./path/to/your/image.png)
+![Scott Busby](./busbyscott_200_1.jpg)
 
 Scott Busby serves as Deputy Assistant Secretary in the Bureau of Democracy, Human Rights and Labor at the U.S. Department of State in Washington, DC, where he oversees the Bureau's work on Africa, East Asia and the Pacific, Multilateral and Global Affairs, including U.S. engagement on human rights at the United Nations, disability rights, LGBTI rights, internet freedom, business and human rights, and International Labor Affairs.
-
-![Scott Busby](./path/to/your/image.png)
 
 The document contained Mr. Scott Busby's personal information and the price paid to him by the organization, as well as his bank card information and address.
 
@@ -28,7 +26,7 @@ He has a real estate address in Austin and a gmail for contact.**The organizatio
 
 The second person of interest I found in the document was Mr. Sean R. Roberts.
 
-![Sean R. Roberts](./path/to/your/image.png)
+![Sean R. Roberts](./Sean Roberts.jpg)
 
 ```
 Associate Professor of the Practice of International Affairs; Director, International Development Studies Program, Elliott School of International Affairs, The George Washington University.
@@ -43,8 +41,6 @@ From 2006 to 2008, Dr. Roberts was a post-doctoral fellow in Central Asian Affai
 His present research is focused on China's development of the Xinjiang Uyghur Autonomous Region as well as on democracy development in former Soviet Central Asia. Roberts continues his applied work on the design and evaluation of democracy and governance projects in the former Soviet Union, most recently in Ukraine where he worked on a USAID project to support decentralization and anti-corruption.
 ```
 
-![Sean R. Roberts](./path/to/your/image.png)
-
 The document contained Mr. Sean R. Roberts's personal information and the price paid to him by the organization, as well as his bank card information and address.
 
 He has a real estate address in New York and a mail for contact.**The organization paid him $19,990 in 2018.**
@@ -53,7 +49,7 @@ He has a real estate address in New York and a mail for contact.**The organizati
 
 The third person of interest I found in the document was Ms. Kelley Eckels Currie.
 
-![Ms. Kelley Eckels Currie](./path/to/your/image.png)
+![Ms. Kelley Eckels Currie](./currie-2-1024x681.jpg)
 
 ```
 Kelley Eckels Currie (née Eckels) is an American human rights lawyer and former government official who served as the Ambassador-at-Large for Global Women's Issues from 2020 to 2021. She previously served as the U.S. Representative to the United Nations Economic and Social Council and as the Acting Deputy Representative of the U.S. to the U.N., after Michele Sison's departure. Before assuming her role as Ambassador-at-Large for Global Women's Issues, she was a senior fellow at the Project 2049 Institute, a think tank focused on security issues and public policy in Central Asia and the Asia-Pacific region. She previously held senior public policy positions with the United States Department of State and several international and nongovernmental human rights and humanitarian organizations. Currie also served as foreign operations appropriations associate and staff director of the Congressional Human Rights Caucus for Representative John Porter.
@@ -73,7 +69,7 @@ He has a real estate address in Federal Way and a gmail for contact.**The organi
 
 **I think the reason why the authenticity of this document may be high is because a lot of personal information involved in it can be corresponded.**
 
-![Marco Antonio Rubio](./path/to/your/image.png)
+![Marco Antonio Rubio](./rubiomarco_051117vsj_lead.jpg)
 
 ```
 Marco Antonio Rubio is an American politician, attorney, and diplomat serving since 2025 as the 72nd United States secretary of state. A member of the Republican Party, he represented Florida in the United States Senate from 2011 to 2025, and was a candidate during the 2016 Republican Party primary elections for president of the United States. During his tenure as secretary of state, he has also served as the acting administrator of USAID and acting archivist of the United States.----This introduction is from Wikipedia.
@@ -85,7 +81,7 @@ The documents show that he has **his own property in Miami**, and that he has an
 
 ### 5. Mr. Thomas Richard Suozzi
 
-![Thomas Richard Suozzi](./path/to/your/image.png)
+![Thomas Richard Suozzi](./Tom Suozzi.jpg)
 
 ```
 Thomas Richard Suozzi is an American politician serving as the U.S. representative for New York's 3rd congressional district since 2024 and previously from 2017 to 2023. A member of the Democratic Party, he was the county executive of Nassau County on Long Island from 2002 to 2009 and served before then as the mayor of Glen Cove for eight years. His district, which is largely suburban, includes northern Nassau County and parts of northeastern Queens.
@@ -100,7 +96,7 @@ The documents show that he has **his own property in Glen Cove**, and that he ha
 
 **At first, I was skeptical that Mr. Christopher Henry Smith's name appeared in this form, but after looking up the information, I thought that the reason why this document might be true was also in Mr. Christopher Henry Smith's information.**
 
-![Sean R. Roberts](./path/to/your/image.png)
+![Sean R. Roberts](./Sen..-Chris-Smith-2.jpg)
 
 ```
 Christopher Henry Smith is an American politician serving his 23rd term as the U.S. representative for New Jersey's 4th congressional district. Though it has taken various forms, his district has always been situated in central New Jersey. Currently, the district contains parts of Ocean and Monmouth counties. Smith is a member of the Republican Party, having switched from the Democratic Party in 1978. Taking office in 1981, Smith is tied with Hal Rogers for being the longest currently serving member of the House of Representatives.
@@ -142,9 +138,14 @@ Now the answer is becoming clear. The female leader of this organization is acti
 
 Listen to this — doesn't this resume sound thrilling and impressive? **It seems like she has worked in almost every branch of U.S. regime-changing organizations**. Around 2019, many people even suspected that she might be a part of the intelligence community. Then, she suddenly deleted all her background information online, trying to cover up her past.
 
+![Rushan Abbas](./rushan.jpg)
+![CFU](./CFU.jpg)
+
 **This organization is the UAA (Uyghur American Association) and CFU (Campaign for Uyghurs). She was the one who established them and is the main initiator.**
 
 ## Money 
+
+![moneu](./dollar.jpg)
 
 **In the entire alignment of interests, the most important factor is money.**
 
@@ -153,5 +154,7 @@ During the operational existence of the CFU, it was primarily supported by grant
 Although NED is a private, non-profit organization, its funding primarily comes from annual appropriations by the U.S. Congress. NED implements its programs through four core institutes, each affiliated with major U.S. political parties and labor unions: the Center for International Private Enterprise (CIPE), the International Republican Institute (IRI), the National Democratic Institute (NDI), and the American Center for International Labor Solidarity (ACILS).
 
 It's obvious — money from the U.S. Congress is essentially taxpayer money. That means it's our money — every one of us. And CFU is using that money to buy off politicians in order to achieve their hidden agendas. What kind of behavior is that?
+
+![down](./down.jpg)
 
 They are the parasites of the entire nation! If you think my analysis makes sense, leave a star. And if you think I got something wrong, drop your questions — let’s break it down together.
