@@ -96,7 +96,7 @@ The documents show that he has **his own property in Glen Cove**, and that he ha
 
 **At first, I was skeptical that Mr. Christopher Henry Smith's name appeared in this form, but after looking up the information, I thought that the reason why this document might be true was also in Mr. Christopher Henry Smith's information.**
 
-![Sean R. Roberts](./Sen..-Chris-Smith-2.jpg)
+![Sean R. Roberts](./Smith-2.jpg)
 
 ```
 Christopher Henry Smith is an American politician serving his 23rd term as the U.S. representative for New Jersey's 4th congressional district. Though it has taken various forms, his district has always been situated in central New Jersey. Currently, the district contains parts of Ocean and Monmouth counties. Smith is a member of the Republican Party, having switched from the Democratic Party in 1978. Taking office in 1981, Smith is tied with Hal Rogers for being the longest currently serving member of the House of Representatives.
@@ -139,6 +139,7 @@ Now the answer is becoming clear. The female leader of this organization is acti
 Listen to this — doesn't this resume sound thrilling and impressive? **It seems like she has worked in almost every branch of U.S. regime-changing organizations**. Around 2019, many people even suspected that she might be a part of the intelligence community. Then, she suddenly deleted all her background information online, trying to cover up her past.
 
 ![Rushan Abbas](./rushan.jpg)
+
 ![CFU](./CFU.jpg)
 
 **This organization is the UAA (Uyghur American Association) and CFU (Campaign for Uyghurs). She was the one who established them and is the main initiator.**
